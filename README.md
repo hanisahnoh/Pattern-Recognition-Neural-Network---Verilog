@@ -5,6 +5,7 @@ creating a single layer 1 neuron NN with 118 inputs (double values)
 NN architecture 
 - process_input_1
   - remove constant row 
+  - mapminmax
 - Layer_1
   - 93 Input Weight
   - 1 bias
